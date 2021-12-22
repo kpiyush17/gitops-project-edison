@@ -1,6 +1,6 @@
 # Project Edison
 
-Config for the project
+Config for the edison project
 
 ## Module
 
